@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="homework2/homework2.csproj" />
+  <Project Path="homework3/homework3.csproj" Id="31e7bccc-9b53-48f8-b986-4e70490cf636" />
+  <Project Path="homework4/homework4.csproj" Id="f62bc963-ee96-4247-9e45-85cc20b4623a" />
+  <Project Path="homework420/homework420.csproj" />
+  <Project Path="閏年/閏年.csproj" Id="8f01f6b0-ca51-4349-8fc5-02697522ae54" />
+</Solution>
