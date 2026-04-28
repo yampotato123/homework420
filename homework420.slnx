@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="../計算假日/不使用迴圈/不使用迴圈.csproj" />
+  <Project Path="../計算假日/計算假日/計算假日.csproj" />
   <Project Path="homework2/homework2.csproj" />
   <Project Path="homework3/homework3.csproj" Id="31e7bccc-9b53-48f8-b986-4e70490cf636" />
   <Project Path="homework4/homework4.csproj" Id="f62bc963-ee96-4247-9e45-85cc20b4623a" />
