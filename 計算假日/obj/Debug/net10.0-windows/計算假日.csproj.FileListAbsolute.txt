@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\計算假日\計算假日\bin\Debug\net10.0-windows\計算假日.exe
+C:\Users\admin\source\repos\計算假日\計算假日\bin\Debug\net10.0-windows\計算假日.deps.json
+C:\Users\admin\source\repos\計算假日\計算假日\bin\Debug\net10.0-windows\計算假日.runtimeconfig.json
+C:\Users\admin\source\repos\計算假日\計算假日\bin\Debug\net10.0-windows\計算假日.dll
+C:\Users\admin\source\repos\計算假日\計算假日\bin\Debug\net10.0-windows\計算假日.pdb
+C:\Users\admin\source\repos\計算假日\計算假日\obj\Debug\net10.0-windows\計算假日.Form1.resources
+C:\Users\admin\source\repos\計算假日\計算假日\obj\Debug\net10.0-windows\計算假日.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\計算假日\計算假日\obj\Debug\net10.0-windows\計算假日.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\計算假日\計算假日\obj\Debug\net10.0-windows\計算假日.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\計算假日\計算假日\obj\Debug\net10.0-windows\計算假日.AssemblyInfo.cs
+C:\Users\admin\source\repos\計算假日\計算假日\obj\Debug\net10.0-windows\計算假日.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\計算假日\計算假日\obj\Debug\net10.0-windows\計算假日.dll
+C:\Users\admin\source\repos\計算假日\計算假日\obj\Debug\net10.0-windows\refint\計算假日.dll
+C:\Users\admin\source\repos\計算假日\計算假日\obj\Debug\net10.0-windows\計算假日.pdb
+C:\Users\admin\source\repos\計算假日\計算假日\obj\Debug\net10.0-windows\計算假日.genruntimeconfig.cache
+C:\Users\admin\source\repos\計算假日\計算假日\obj\Debug\net10.0-windows\ref\計算假日.dll
